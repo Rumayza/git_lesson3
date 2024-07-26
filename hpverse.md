@@ -9,30 +9,30 @@
 ## Characters
 ### Harry Potter and the Philosopher's Stone
 
-*Harry Potter  
+* Harry Potter  
 
-*Ron Weasley  
+* Ron Weasley  
 
-*Hermione Granger  
+* Hermione Granger  
 
 ### Harry Potter and the Chamber of Secrets
 
-*Harry Potter   
+* Harry Potter   
 
-*Ron Weasley  
+* Ron Weasley  
 
-*Hermione Granger  
+* Hermione Granger  
 
-*Ginny Weasley  
+* Ginny Weasley  
 
 ### Harry Potter and the Prisoner of Azkaban
 
-*Harry Potter  
+* Harry Potter  
 
-*Ron Weasley  
+* Ron Weasley  
 
-*Hermione Granger  
+* Hermione Granger  
 
-*Sirius Black  
+* Sirius Black  
 
-*Remus Lupin
+* Remus Lupin
