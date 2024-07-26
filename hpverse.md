@@ -36,3 +36,9 @@
 * Sirius Black  
 
 * Remus Lupin
+
+## Hogwarts houses
+* Griffindor
+* Slytherin
+* Ravenclaw
+* Hufflepuff
