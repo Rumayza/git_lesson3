@@ -37,7 +37,7 @@
 
 * Remus Lupin
 
-##
+## Hogwarts houses
 * Griffindor
 * Slytherin
 * Ravenclaw
